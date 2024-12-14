@@ -1,0 +1,21 @@
+C:\Users\user1\Desktop\פראקטקוד\פרויקט2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1 - Backup.exe
+C:\Users\user1\Desktop\פראקטקוד\פרויקט2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\JsonFiles\HtmlTags.json
+C:\Users\user1\Desktop\פראקטקוד\פרויקט2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\JsonFiles\HtmlVoidTags.json
+C:\Users\user1\Desktop\פראקטקוד\פרויקט2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1 - Backup.deps.json
+C:\Users\user1\Desktop\פראקטקוד\פרויקט2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1 - Backup.runtimeconfig.json
+C:\Users\user1\Desktop\פראקטקוד\פרויקט2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1 - Backup.dll
+C:\Users\user1\Desktop\פראקטקוד\פרויקט2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1 - Backup.pdb
+C:\Users\user1\Desktop\פראקטקוד\פרויקט2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+C:\Users\user1\Desktop\פראקטקוד\פרויקט2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\itextsharp.dll
+C:\Users\user1\Desktop\פראקטקוד\פרויקט2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\itextsharp.xmlworker.dll
+C:\Users\user1\Desktop\פראקטקוד\פרויקט2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1 - Backup.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\פראקטקוד\פרויקט2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1 - Backup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\פראקטקוד\פרויקט2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1 - Backup.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\פראקטקוד\פרויקט2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1 - Backup.AssemblyInfo.cs
+C:\Users\user1\Desktop\פראקטקוד\פרויקט2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1 - Backup.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\פראקטקוד\פרויקט2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1 - Backup.csproj.CopyComplete
+C:\Users\user1\Desktop\פראקטקוד\פרויקט2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1 - Backup.dll
+C:\Users\user1\Desktop\פראקטקוד\פרויקט2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1 - Backup.dll
+C:\Users\user1\Desktop\פראקטקוד\פרויקט2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1 - Backup.pdb
+C:\Users\user1\Desktop\פראקטקוד\פרויקט2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1 - Backup.genruntimeconfig.cache
+C:\Users\user1\Desktop\פראקטקוד\פרויקט2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1 - Backup.dll
